@@ -1,4 +1,4 @@
-# Service provider by MercadoPago SDK 
+# Service provider by php mailer
 
 *
 
